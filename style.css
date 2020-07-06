@@ -1,0 +1,19 @@
+#tamanhoContainer{
+	width: 500px
+}
+
+form{
+	margin-top: 20px
+}
+#botao{
+	background-color: #FF2400;
+	color: #ffffff;
+	border: none;
+	font-weight: bold;
+}
+#botao:hover{
+	background-color: #ffffff;
+	color: #FF2400;
+	text-decoration: underline red ;
+	transition: .5s;
+}
